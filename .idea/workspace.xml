@@ -1,8 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96f0e8f7-3d27-4915-baba-92b97dc578b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electron/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myComponents/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myComponents/PeopleCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myComponents/Post.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Direct/AddChatDialog.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Direct/Chat.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Direct/Direct.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/My Network/MyNetwork.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/My Network/RequestCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/My Network/Requests.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/My Network/Suggestions.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Notifications.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Post/AddPost.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Post/PostPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Profile/AccomplishmentDialog.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Profile/BackgroundDialog.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Profile/EditProfile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Profile/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/SearchUser.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/SignUp.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tt6CVc3TGeSxNurTW3GiG3nKe9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tr\WebstormProjects\linkedin\src\pages\Direct" />
+      <recent name="C:\Users\Tr\WebstormProjects\linkedin\src\pages\My Network" />
+      <recent name="C:\Users\Tr\WebstormProjects\linkedin\src\pages" />
+      <recent name="C:\Users\Tr\WebstormProjects\linkedin\src\pages\Post" />
+      <recent name="C:\Users\Tr\WebstormProjects\linkedin\src\pages\Profile" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="setup.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Database/setup.js" working-dir="$PROJECT_DIR$/src/Database">
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="Node.js.setup.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96f0e8f7-3d27-4915-baba-92b97dc578b1" name="Default Changelist" comment="" />
+      <created>1623575910350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623575910350</updated>
+      <workItem from="1623575912179" duration="2482000" />
+      <workItem from="1623599284699" duration="5468000" />
+      <workItem from="1623690988403" duration="685000" />
+      <workItem from="1623696248754" duration="1501000" />
+      <workItem from="1623770301016" duration="1438000" />
+      <workItem from="1623778513310" duration="2795000" />
+      <workItem from="1623863844708" duration="119000" />
+      <workItem from="1625825401404" duration="7462000" />
+      <workItem from="1625916618736" duration="3547000" />
+      <workItem from="1626183441892" duration="5314000" />
+      <workItem from="1626257443282" duration="7041000" />
+      <workItem from="1626342103559" duration="8267000" />
+      <workItem from="1626368440632" duration="645000" />
+      <workItem from="1626380953208" duration="1389000" />
+      <workItem from="1626433571724" duration="5659000" />
+      <workItem from="1626470780837" duration="2083000" />
+      <workItem from="1626514223694" duration="6677000" />
+      <workItem from="1626597774167" duration="12520000" />
+      <workItem from="1626632311865" duration="1858000" />
+      <workItem from="1626683406253" duration="14889000" />
+      <workItem from="1626726192138" duration="3863000" />
+      <workItem from="1626768251056" duration="19795000" />
+      <workItem from="1626867882454" duration="3880000" />
+      <workItem from="1626899033077" duration="4608000" />
+      <workItem from="1626944238501" duration="10698000" />
+      <workItem from="1626984597300" duration="4629000" />
+      <workItem from="1627032137041" duration="12683000" />
+      <workItem from="1627074631411" duration="4649000" />
+      <workItem from="1627114498531" duration="12792000" />
+      <workItem from="1627201576836" duration="28911000" />
+      <workItem from="1627254039994" duration="314000" />
+      <workItem from="1627291740335" duration="5001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
